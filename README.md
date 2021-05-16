@@ -28,7 +28,7 @@ Esse é o link: https://www.kaggle.com/harlfoxem/housesalesprediction
 
 Esse conjunto de dados contém casas vendidas entre Maio de 2014 e Maio de 2015. Você usará esses dados para desenvolver sua solução.
 
-**Roteiro Sugerido para a Resolução.**
+## **Roteiro Sugerido para a Resolução.**
 Esse é o roteiro de resolução do desafio que eu sugiro
 
 1. **Identificar a causa raíz.**
@@ -39,14 +39,20 @@ Esse é o roteiro de resolução do desafio que eu sugiro
 2. **Coletando os dados ( Os dados estão no link acima )**
 
 3. **Aplique uma limpeza nos dados.**
-  3.1. Entenda as variáveis disponíveis, possíveis valores faltantes, faça uma estatística descritiva para entender as características dos dados.
-
+  <ul>
+    <li>Entenda as variáveis disponíveis, possíveis valores faltantes, faça uma estatística descritiva para entender as características dos dados.<li>
+  </ul>
+  
 4. **Levantando Hipóteses sobre o Comportamento do Negócio.**
-    Casas com garagens são mais caras? Porque?
-Casas com muitos quartos são mais caras? Porque? A partir de quantos quartos o preço aumenta? Qual o incremento de preço por cada quarto adicionado?
-As casas mais caras estão no centro? Qual a região? Existe alguma coisa na região que tem correlação com valor de venda da casa? Shoppings? Montanhas? Pessoas Famosas?
-Faça uma ótima Análise Exploratória de Dados.
-Quais hipóteses são falsas e quais são verdadeiras?
-Quais as correlações entre as variáveis e a variável resposta?
+    <ul>
+        <li>Casas com garagens são mais caras? Porque?</li>
+        <li>Casas com muitos quartos são mais caras? Porque? A partir de quantos quartos o preço aumenta? Qual o incremento de preço por cada quarto adicionado?</li>
+        <li>As casas mais caras estão no centro? Qual a região? Existe alguma coisa na região que tem correlação com valor de venda da casa? Shoppings? Montanhas? Pessoas                   Famosas?</li>  
+  </ul>
+5. **Análise Exploratória de Dados.**
+  <ul>
+  <li>Quais hipóteses são falsas e quais são verdadeiras?</li>
+  <li>Quais as correlações entre as variáveis e a variável resposta?</li>
+  </ul>
 Escreve os Insights que você encontro.
 7. Escreve possíveis soluções para o problema do CEO.
