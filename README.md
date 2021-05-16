@@ -48,13 +48,13 @@ Esse é o roteiro de resolução do desafio que eu sugiro
         <li>Casas com garagens são mais caras? Porque?</li>
         <li>Casas com muitos quartos são mais caras? Porque? A partir de quantos quartos o preço aumenta? Qual o incremento de preço por cada quarto adicionado?</li>
         <li>As casas mais caras estão no centro? Qual a região? Existe alguma coisa na região que tem correlação com valor de venda da casa? Shoppings? Montanhas? Pessoas                   Famosas?</li>  
-  </ul>
+    </ul>
   
 5. **Análise Exploratória de Dados.**
 
   <ul>
-  <li>Quais hipóteses são falsas e quais são verdadeiras?</li>
-  <li>Quais as correlações entre as variáveis e a variável resposta?</li>
+    <li>Quais hipóteses são falsas e quais são verdadeiras?</li>
+    <li>Quais as correlações entre as variáveis e a variável resposta?</li>
   </ul>
   
 6. **Os Insights que eu encontrei.**
