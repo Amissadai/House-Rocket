@@ -1,8 +1,9 @@
 # House-Rocket
 
 ***Disclaimer: O Contexto a seguir, é completamente fictício, a empresa, o contexto, o CEO, as perguntas de negócio existem somente na minha imaginação.***
-
-<img src="Imagem1.jpg">
+<p align="center">
+  <img width="460" src="Imagem1.jpg">
+</p>
 
 ## Contexto do Desafio
 
