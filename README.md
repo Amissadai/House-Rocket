@@ -4,7 +4,7 @@
 
 ## Contexto do Desafio
 
-A ** *House Rocket* ** é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
+A ***House Rocket*** é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
 
 Você é um Data Scientist contratado pela empresa para ajudar a encontrar as melhores oportunidades de negócio no mercado de imóveis. O CEO da House Rocket gostaria de maximizar a receita da empresa encontrando boas oportunidades de negócio.
 
