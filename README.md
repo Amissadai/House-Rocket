@@ -40,7 +40,7 @@ Esse é o roteiro de resolução do desafio que eu sugiro
 
 3. **Aplique uma limpeza nos dados.**
   <ul>
-    <li>Entenda as variáveis disponíveis, possíveis valores faltantes, faça uma estatística descritiva para entender as características dos dados.<li>
+    <li>Entenda as variáveis disponíveis, possíveis valores faltantes, faça uma estatística descritiva para entender as características dos dados.</li>
   </ul>
   
 4. **Levantando Hipóteses sobre o Comportamento do Negócio.**
@@ -52,10 +52,10 @@ Esse é o roteiro de resolução do desafio que eu sugiro
   
 5. **Análise Exploratória de Dados.**
 
-  <ul>
-    <li>Quais hipóteses são falsas e quais são verdadeiras?</li>
-    <li>Quais as correlações entre as variáveis e a variável resposta?</li>
-  </ul>
+    <ul>
+      <li>Quais hipóteses são falsas e quais são verdadeiras?</li>
+      <li>Quais as correlações entre as variáveis e a variável resposta?</li>
+    </ul>
   
 6. **Os Insights que eu encontrei.**
 7. **Escrevendo as possíveis soluções para o problema do CEO.**
