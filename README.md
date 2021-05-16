@@ -38,7 +38,7 @@ Esse é o roteiro de resolução do desafio que eu sugiro
     </ul>
 2. **Coletando os dados ( Os dados estão no link acima )**
 
-3. **Aplique uma limpeza nos dados.**
+3. **Aplicando uma limpeza nos dados.**
     <ul>
       <li>Entenda as variáveis disponíveis, possíveis valores faltantes, faça uma estatística descritiva para entender as características dos dados.</li>
     </ul>
@@ -57,5 +57,5 @@ Esse é o roteiro de resolução do desafio que eu sugiro
       <li>Quais as correlações entre as variáveis e a variável resposta?</li>
     </ul>
   
-6. **Os Insights que eu encontrei.**
-7. **Escrevendo as possíveis soluções para o problema do CEO.**
+6. **Insights que você encontro.**
+7. **Escreve possíveis soluções para o problema do CEO..**
