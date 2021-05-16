@@ -1,10 +1,10 @@
 # House-Rocket
 
-**Disclaimer: O Contexto a seguir, é completamente fictício, a empresa, o contexto, o CEO, as perguntas de negócio existem somente na minha imaginação.**
+** *Disclaimer: O Contexto a seguir, é completamente fictício, a empresa, o contexto, o CEO, as perguntas de negócio existem somente na minha imaginação.* **
 
 ## Contexto do Desafio
 
-A **House Rocket** é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
+A ** *House Rocket* ** é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
 
 Você é um Data Scientist contratado pela empresa para ajudar a encontrar as melhores oportunidades de negócio no mercado de imóveis. O CEO da House Rocket gostaria de maximizar a receita da empresa encontrando boas oportunidades de negócio.
 
@@ -14,6 +14,6 @@ Entretanto, as casas possuem muitos atributos que as tornam mais ou menos atrati
 
 Portanto, seu trabalho como Data Scientist é responder as seguinte perguntas:
 
-1. Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?
-2. Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
-3. A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
+1. **Quais casas o CEO da House Rocket deveria comprar e por qual preço de compra?**
+2. **Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?**
+3. **A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?**
