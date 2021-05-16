@@ -22,3 +22,8 @@ Portanto, seu trabalho como Data Scientist é responder as seguinte perguntas:
 3. **A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?**
 
 ## **Os Dados do Desafio**
+
+O conjunto de dados que representam o contexto está disponível na plataforma do Kaggle.
+Esse é o link: <a href="https://www.kaggle.com/harlfoxem/housesalesprediction" >
+
+Esse conjunto de dados contém casas vendidas entre Maio de 2014 e Maio de 2015. Você usará esses dados para desenvolver sua solução.
