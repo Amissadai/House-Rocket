@@ -39,9 +39,9 @@ Esse é o roteiro de resolução do desafio que eu sugiro
 2. **Coletando os dados ( Os dados estão no link acima )**
 
 3. **Aplique uma limpeza nos dados.**
-  <ul>
-    <li>Entenda as variáveis disponíveis, possíveis valores faltantes, faça uma estatística descritiva para entender as características dos dados.</li>
-  </ul>
+    <ul>
+      <li>Entenda as variáveis disponíveis, possíveis valores faltantes, faça uma estatística descritiva para entender as características dos dados.</li>
+    </ul>
   
 4. **Levantando Hipóteses sobre o Comportamento do Negócio.**
     <ul>
