@@ -33,7 +33,10 @@ A ***House Rocket*** é uma plataforma digital que tem como modelo de negócio, 
 - Uma vez a casa em posse da empresa, qual o melhor momento para vendê-las e qual seria o preço da venda?
 - A House Rocket deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
 
-**Entregáveis**
+**O que vai ser entregue**
+- Dois relatórios:
+-- Relatório com as sugestões de compra de apartamento por um valor recomendado.
+-- Relatório com as sugestões de venda de um imóvel por um valor recomendado.
 
 ---
 
