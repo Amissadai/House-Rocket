@@ -9,13 +9,32 @@
 
 ## Índice
 - [Introdução](#introdução)
-- [O problema de negócio](#o-problema-de-negócio)
-- [Descrição dos dados](#descrição-dos-dados)
+- [O Problema de Negócio](#o-problema-de-negócio)
+- [Descrição dos Dados](#descrição-dos-dados)
 - [Feature Engineering](#feature-engineering)
-- [Análise Exporatória de Dados(EDA)](#análise-exporatória-de-dados-eda) 
+- [Análise Exploratória de Dados(EDA)](#análise-exploratória-de-dados-eda) 
 
 ---
 
+## Introdução
+
+---
+
+## O Problema de Negócio 
+
+---
+
+## Descrição dos Dados
+
+---
+
+## Feature Engineering
+
+---
+
+## Análise Exploratória de Dados(EDA)
+
+--
 
 
 
