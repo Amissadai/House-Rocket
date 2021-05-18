@@ -5,6 +5,14 @@
   <img width="460" src="Imagem1.jpg">
 </p>
 
+## Índice
+<ul>
+  <li>Introdução</li>
+  <li>O problema de negócio</li>
+  <li>Descrição dos dados</li>
+  <li>Feature Engineering</li>
+  <li>Análise Exporatória de Dados(EDA)</li>
+</ul> 
 ## Contexto do Desafio
 
 A ***House Rocket*** é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
