@@ -7,10 +7,12 @@
 
 ## Índice
 - [Introdução](#introdução)
-O problema de negócio
-Descrição dos dados
-Feature Engineering
-Análise Exporatória de Dados(EDA) 
+- [O problema de negócio]
+- [Descrição dos dados]
+- [Feature Engineering]
+- [Análise Exporatória de Dados(EDA)] 
+
+
 ## Contexto do Desafio
 
 A ***House Rocket*** é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
