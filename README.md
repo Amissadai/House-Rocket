@@ -13,6 +13,7 @@
 - [Descrição dos Dados](#descrição-dos-dados)
 - [Feature Engineering](#feature-engineering)
 - [Análise Exploratória de Dados(EDA)](#análise-exploratória-de-dados-eda) 
+- [Conclusão](#conclusão)
 
 ---
 
@@ -36,14 +37,16 @@ A ***House Rocket*** é uma plataforma digital que tem como modelo de negócio, 
 
 ---
 
-## Descrição dos Dados
+## 2. Descrição dos Dados
 
 ---
 
-## Feature Engineering
+## 3. Feature Engineering
 
 ---
 
-## Análise Exploratória de Dados(EDA)
+## 4. Análise Exploratória de Dados(EDA)
 
 ---
+
+## 5. Conclusão
