@@ -7,10 +7,10 @@
 
 ## Índice
 - [Introdução](#introdução)
-- [O problema de negócio]
-- [Descrição dos dados]
-- [Feature Engineering]
-- [Análise Exporatória de Dados(EDA)] 
+- [O problema de negócio](#o-problema-de-negócio)
+- [Descrição dos dados](#descrição-dos-dados)
+- [Feature Engineering](#feature-engineering)
+- [Análise Exporatória de Dados(EDA)](#análise-exporatória-de-dados-eda) 
 
 
 ## Contexto do Desafio
