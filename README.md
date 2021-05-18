@@ -6,17 +6,15 @@
 </p>
 
 ## Índice
-<ul>
-  <li>Introdução</li>
-  <li>O problema de negócio</li>
-  <li>Descrição dos dados</li>
-  <li>Feature Engineering</li>
-  <li>Análise Exporatória de Dados(EDA)</li>
-</ul> 
+- [Introdução](#introdução)
+O problema de negócio
+Descrição dos dados
+Feature Engineering
+Análise Exporatória de Dados(EDA) 
 ## Contexto do Desafio
 
 A ***House Rocket*** é uma plataforma digital que tem como modelo de negócio, a compra e a venda de imóveis usando tecnologia.
-
+##Introdução
 Você é um Data Scientist contratado pela empresa para ajudar a encontrar as melhores oportunidades de negócio no mercado de imóveis. O CEO da House Rocket gostaria de maximizar a receita da empresa encontrando boas oportunidades de negócio.
 
 Sua principal estratégia é comprar boas casas em ótimas localizações com preços baixos e depois revendê-las posteriormente à preços mais altos. Quanto maior a diferença entre a compra e a venda, maior o lucro da empresa e portanto maior sua receita.
