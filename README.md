@@ -35,8 +35,8 @@ A ***House Rocket*** é uma plataforma digital que tem como modelo de negócio, 
 
 **O que vai ser entregue**
 - Dois relatórios:
-- Relatório com as sugestões de compra de apartamento por um valor recomendado.
-- Relatório com as sugestões de venda de um imóvel por um valor recomendado.
+  - Relatório com as sugestões de compra de apartamento por um valor recomendado.
+  - Relatório com as sugestões de venda de um imóvel por um valor recomendado.
 
 ---
 
